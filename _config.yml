@@ -1,0 +1,33 @@
+# Site settings
+title: MamanPKtupleures
+subtitle: par ALpabem
+email: youremailaddress@gmail.com
+description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 645 Boulevard des laurentides
+city: Montreal
+state: Quebec
+zip_code: H2P 4P4
+country: Canada
+phone: (450) 648-1546
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com
+github_url:
+gitlab_url: 
+googleplus_url: https://plus.google.com
+instagram_url: https://instagram.com
+linkedin_url: 
+pinterest_url: https://pinterest.com
+slack_url:
+twitter_url: https://twitter.com
+
+# Sass building
+sass:
+    sass_dir: _sass
+    
+# Build settings
+markdown: kramdown

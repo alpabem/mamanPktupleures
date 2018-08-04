@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Page d'accueil"
+    url: /
+  - title: "Articles"
+    url: /articles/
+  - title: "Outils"
+    url: /outils/
+  - title: "F.A.Q"
+    url: /faq/
+  - title: "A propos"
+    url: /apropos/
+  - title: "Nous joindre"
+    url: /nousjoindre/
+
+santementale:
+  - title: "Comprendre la maladie mentale"
+    url: /
+  - title: "La médication"
+    url: /articles/
+  - title: "Prendre soin de soi"
+    url: /outils/
+  - title: "Le rétablissement"
+    url: /faq/
+ 
